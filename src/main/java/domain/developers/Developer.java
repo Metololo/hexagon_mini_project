@@ -1,5 +1,7 @@
 package domain.developers;
 
+
+// SIMPLE DEVELOPER MODEL
 public class Developer {
     String name;
 

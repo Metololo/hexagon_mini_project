@@ -1,6 +1,6 @@
 package domain.projects;
 
-// HEXAGON
+// SECOND HEXAGON
 public class ProjectManager implements ManageProject{
 
     ProjectRepository repository;

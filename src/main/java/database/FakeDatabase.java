@@ -6,6 +6,7 @@ import domain.projects.Project;
 import java.util.HashMap;
 import java.util.List;
 
+// FAKE DATABASE FOR SIMPLICITY PURPOSE
 public class FakeDatabase {
     public List<Developer> developers = List.of(
             new Developer("john"),

@@ -24,10 +24,11 @@ public class Main {
         TestProjectCmdAdapter projectController = new TestProjectCmdAdapter(projectManager);
         TestDevCmdAdapter devController = new TestDevCmdAdapter(developerManager);
 
+        // use-case of dev hexagon
         System.out.println("We can ask for all developers names in the developer hexagon : ");
         devController.showMeDevelopers();
 
-
+        // use-case of dev hexagon
         System.out.println("We can also ask for a project date in the project hexagon : ");
         projectController.showMeAProjectDate();
 

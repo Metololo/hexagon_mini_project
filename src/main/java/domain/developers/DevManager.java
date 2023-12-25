@@ -3,7 +3,7 @@ package domain.developers;
 import java.util.ArrayList;
 import java.util.List;
 
-// THE HEXAGON THAT IMPLEMENT ManageDevloper PORT
+// THE HEXAGON THAT IMPLEMENT ManageDeveloper port
 public class DevManager implements ManageDeveloper{
 
     public DevManager() {
